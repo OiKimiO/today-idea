@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "32b30a84b2dd1808",
+    "type": "split",
+    "children": [
+      {
+        "id": "fde9a64c7975024a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1feeb22da4a74610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. InBox/태도.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e142a1047a51dea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4910a8dbac8be5f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a09b3f65de85ee6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "426aa8afa1c91ad1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6852811a39c3aa69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "e3cbc1dc8ff5f94c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f360e4e1ffc45e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1982a4821a6f6d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. InBox/태도.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "568a43a8514cf890",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. InBox/태도.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a1c1f49bd4345b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e39dffe09d9c9b68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. InBox/태도.md"
+              }
+            }
+          },
+          {
+            "id": "2f22147d278ba847",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "0. InBox/태도.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#java",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1feeb22da4a74610",
+  "lastOpenFiles": [
+    "0. InBox/개발 이력.md",
+    "0. InBox/태도.md",
+    "0. InBox/방향성.md",
+    "0. InBox/이미지.png.md",
+    "마크다운 메모 예시.md",
+    "0. InBox/Object 객체.md",
+    "0. InBox/UnCheckException.md",
+    "0. InBox/Exception.md",
+    "0. InBox/추가메모.md",
+    "0. InBox/CheckException.md",
+    "Obsidian.md",
+    "Template/zettelkasten.md",
+    "s.md",
+    "제텔케스텐_first.md",
+    "0. InBox/RuntimeException.md",
+    "1. 영구 Box/무제 파일.md",
+    "Template",
+    "1. 영구 Box",
+    "무제 폴더 1",
+    "0. InBox"
+  ]
+}
