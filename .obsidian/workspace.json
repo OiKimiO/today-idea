@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. InBox/Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d438f4a7bb1ba7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. InBox/Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. InBox/Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. InBox/Learning/커밋 컨벤션.md"
+                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. InBox/Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,15 +203,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "305b4be2492371a9",
+  "active": "2d438f4a7bb1ba7c",
   "lastOpenFiles": [
-    "0. InBox/Learning/Computer Architecture/컴퓨터 구성.md",
-    "0. InBox/Learning/커밋 컨벤션.md",
+    "0. InBox/Morning Learning/커밋 컨벤션.md",
+    "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
+    "0. InBox/Morning Learning/Computer Architecture/컴퓨터 구성.md",
+    "0. InBox/Learning/무제 폴더",
     "0. InBox/Idea/개발 이력.md",
-    "0. InBox/Learning/지식 공유",
-    "0. InBox/Learning/Computer Architecture",
-    "0. InBox/Learning",
-    "0. InBox/Learning/지식 공유/DDD(Domain Driven Design).md",
+    "0. InBox/지식 공유",
+    "0. InBox/Morning Learning/Computer Architecture",
+    "0. InBox/Morning Learning",
+    "0. InBox/지식 공유/DDD(Domain Driven Design).md",
     "0. InBox/Idea",
     "0. InBox/Idea/태도.md",
     "0. InBox/Idea/개발을 대하는 나의 태도.md",
