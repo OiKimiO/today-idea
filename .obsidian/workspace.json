@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md"
+                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,8 +206,11 @@
   "active": "2d438f4a7bb1ba7c",
   "lastOpenFiles": [
     "0. InBox/Morning Learning/커밋 컨벤션.md",
-    "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
+    "tech-interview-for-developer/캐시.md",
+    "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
+    "tech-interview-for-developer",
     "0. InBox/Morning Learning/Computer Architecture/컴퓨터 구성.md",
+    "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
     "0. InBox/Learning/무제 폴더",
     "0. InBox/Idea/개발 이력.md",
     "0. InBox/지식 공유",
