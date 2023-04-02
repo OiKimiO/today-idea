@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3eedd5482b421a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. InBox/Idea/클론 코딩.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
+                "file": "0. InBox/Idea/클론 코딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
+                "file": "0. InBox/Idea/클론 코딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md"
+                "file": "0. InBox/Idea/클론 코딩.md"
               }
             }
           },
@@ -149,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
+                "file": "0. InBox/Idea/클론 코딩.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,11 +215,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2d438f4a7bb1ba7c",
+  "active": "3eedd5482b421a02",
   "lastOpenFiles": [
+    "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
+    "0. InBox/Idea/클론 코딩.md",
     "0. InBox/Morning Learning/커밋 컨벤션.md",
     "tech-interview-for-developer/캐시.md",
-    "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
     "tech-interview-for-developer",
     "0. InBox/Morning Learning/Computer Architecture/컴퓨터 구성.md",
     "0. InBox/Morning Learning/Computer Architecture/CPU 작동 원리.md",
