@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "305b4be2492371a9",
+            "id": "e7c44b799c6f3030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d438f4a7bb1ba7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e724c909aaae91f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md"
+                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md"
               }
             }
           },
@@ -161,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,10 +190,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e724c909aaae91f5",
+  "active": "e7c44b799c6f3030",
   "lastOpenFiles": [
-    "0. InBox/Morning Learning/Computer Architecture/고정 소수점, 부동 소수점.md",
     "0. InBox/Morning Learning/커밋 컨벤션.md",
+    "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
+    "0. InBox/Morning Learning/Computer Architecture/고정 소수점, 부동 소수점.md",
     "0. InBox/Idea/클론 코딩.md",
     "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
     "tech-interview-for-developer/캐시.md",
@@ -248,7 +224,6 @@
     "s.md",
     "제텔케스텐_first.md",
     "0. InBox/RuntimeException.md",
-    "1. 영구 Box/무제 파일.md",
     "Template",
     "1. 영구 Box",
     "무제 폴더 1",
