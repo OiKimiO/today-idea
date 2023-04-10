@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
+                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4156c849a9b985d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md"
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,10 +203,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e7c44b799c6f3030",
+  "active": "4156c849a9b985d7",
   "lastOpenFiles": [
-    "0. InBox/Morning Learning/커밋 컨벤션.md",
     "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
+    "0. InBox/Idea/태도.md",
+    "0. InBox/Morning Learning/커밋 컨벤션.md",
+    "0. InBox/Idea/코딩 피드백(with. 동관).md",
     "0. InBox/Morning Learning/Computer Architecture/고정 소수점, 부동 소수점.md",
     "0. InBox/Idea/클론 코딩.md",
     "0. InBox/Morning Learning/Computer Architecture/캐시 메모리(Cache Memory).md",
@@ -208,7 +223,6 @@
     "0. InBox/Morning Learning",
     "0. InBox/지식 공유/DDD(Domain Driven Design).md",
     "0. InBox/Idea",
-    "0. InBox/Idea/태도.md",
     "0. InBox/Idea/개발을 대하는 나의 태도.md",
     "README.md",
     "0. InBox/방향성.md",
@@ -223,7 +237,6 @@
     "Template/zettelkasten.md",
     "s.md",
     "제텔케스텐_first.md",
-    "0. InBox/RuntimeException.md",
     "Template",
     "1. 영구 Box",
     "무제 폴더 1",
