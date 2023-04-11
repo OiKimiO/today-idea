@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. InBox/Morning Learning/Computer Architecture/ARM 프로세서.md",
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md"
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. InBox/Morning Learning/커밋 컨벤션.md",
+                "file": "0. InBox/Idea/코딩 피드백(with. 동관).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,10 +205,12 @@
   },
   "active": "57b5f8be7d9ea034",
   "lastOpenFiles": [
-    "0. InBox/Idea/코딩 피드백(with. 동관).md",
     "0. InBox/Morning Learning/Computer Architecture/ARM 프로세서.md",
+    "0. InBox/Idea/코딩 피드백(with. 동관).md",
     "0. InBox/Morning Learning/Computer Architecture/패리티 비트&해밍 코드.md",
-    "0. InBox/Idea/태도.md",
+    "0. InBox/Morning Learning/Java/스트림",
+    "0. InBox/Morning Learning/Java/람다",
+    "0. InBox/Morning Learning/Java",
     "0. InBox/Morning Learning/커밋 컨벤션.md",
     "0. InBox/Morning Learning/Computer Architecture/고정 소수점, 부동 소수점.md",
     "0. InBox/Idea/클론 코딩.md",
@@ -224,6 +226,7 @@
     "0. InBox/Morning Learning",
     "0. InBox/지식 공유/DDD(Domain Driven Design).md",
     "0. InBox/Idea",
+    "0. InBox/Idea/태도.md",
     "0. InBox/Idea/개발을 대하는 나의 태도.md",
     "README.md",
     "0. InBox/방향성.md",
@@ -237,9 +240,6 @@
     "Obsidian.md",
     "Template/zettelkasten.md",
     "s.md",
-    "Template",
-    "1. 영구 Box",
-    "무제 폴더 1",
-    "0. InBox"
+    "Template"
   ]
 }
